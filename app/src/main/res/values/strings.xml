@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="time_over">TIME OVER!!</string>
+    <string name="wrong">WRONG ANSWER!</string>
+    <string name="correct">CORRECT ANSWER</string>
+    <string name="score">SCORE:-</string>
+    <string name="life">LIFE:-</string>
+    <string name="time">TIME:-</string>
+    <string name="write">WRITE YOUR ANSWER</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="operation">%1$d %2$s %3$d</string>
+    <string name="add">Addition</string>
+    <string name="sub">Subtraction</string>
+    <string name="mul">Multiplication</string>
+    <string name="div">Division</string>
+    <string name="con">Contest</string>
+</resources>

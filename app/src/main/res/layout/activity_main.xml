@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/first1"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="75dp"
+        android:gravity="center_horizontal"
+        android:text="@string/add"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btnSub"
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/sub"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btnMul"
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/mul"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/btnDiv"
+        android:layout_width="250dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/div"
+        android:textSize="25sp" />
+
+
+
+</LinearLayout>
